@@ -1,2 +1,2 @@
 //display the ram
-print("ram");
+print("rp");
